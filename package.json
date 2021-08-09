@@ -1,0 +1,20 @@
+{
+  "name": "ste-simple-events-circular-dep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build",
+    "serve": "serve ./dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^12.0.0",
+    "typescript": "^4.3.5",
+    "vite": "^2.4.4"
+  },
+  "dependencies": {
+    "ste-simple-events": "^2.1.10"
+  }
+}
